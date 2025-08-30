@@ -8,7 +8,7 @@ public class Resource {
     public static String branchName ="master";
     public static String commitInfo="./Commits/";
     public static String allFilesDirctory="./AllFiles/";
-    public static String githubToken="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";
+    public static String githubToken="";
     public static Boolean fineTune = false; //是否微调
     public static String remotePath="";  //仓库的远程地址
 }
