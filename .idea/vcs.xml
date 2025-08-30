@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/cactoos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/commons-collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/commons-compress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/commons-configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/commons-functor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/commons-math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/gson/gson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/james-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/junit4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/rtree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/streamex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_data/ta4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main" vcs="Git" />
+  </component>
+</project>
